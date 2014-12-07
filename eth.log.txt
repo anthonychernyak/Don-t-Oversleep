@@ -1,0 +1,28 @@
+[C:\Users\Anthony\Desktop\LocalHackDay\eth.log.txt]
+Backbuffer created as 800, 600 on default backbuffer mode
+____________________________
+
+Loading game script from source-code: main.angelscript
+
+[INFO ] main.angelscript, line 36: Compiling void ach()
+
+[WARN ] main.angelscript, line 37: Signed/Unsigned mismatch
+
+Compile time: 78 milliseconds
+(Loaded) menu1.png
+(Loaded) menu2.png
+(Loaded) menu3.png
+(Loaded) Default.png
+(Loaded) outofbed.png
+(Loaded) nakedopendoor.png
+(Loaded) nakedoutside.png
+(Loaded) lockedAch.png
+(Loaded) ach3.png
+(Loaded) ach0.png
+(Loaded) headstand.png
+(Loaded) ach1.png
+(Loaded) ach5.png
+(Loaded) clothes.png
+(Loaded) clothesfaileddoor.png
+(Loaded) ach7.png
+(Loaded) ach9.png

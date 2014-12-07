@@ -1,0 +1,2 @@
+[C:\Users\Anthony\Desktop\LocalHackDay\_error.log.txt]
+(Not loaded) C:\Users\Anthony\Desktop\LocalHackDay\entities/clothesheadstandclosed.png
